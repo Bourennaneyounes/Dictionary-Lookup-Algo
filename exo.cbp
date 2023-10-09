@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="exo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/exo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/exo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Dicho.h" />
+		<Unit filename="Dicho_MAT.h" />
+		<Unit filename="FREQ.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FREQ.h" />
+		<Unit filename="MENU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MENU.h" />
+		<Unit filename="Prefix_Suffixe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Prefix_Suffixe.h" />
+		<Unit filename="Rech_Arbre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rech_Arbre.h" />
+		<Unit filename="Rech_Dicho.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rech_Dicho_MAT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chaine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chaine.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="text.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="text.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

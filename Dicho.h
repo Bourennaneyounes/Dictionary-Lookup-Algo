@@ -1,0 +1,9 @@
+#ifndef DICHO_H_INCLUDED
+#define DICHO_H_INCLUDED
+long Millieu(FILE* F1,int DEBUT, int FIN);
+char* EXTRAIRE_MOT(FILE* F1);
+long EXISTE(char *MOT, FILE *F1);
+char* TROUVE_MOT(char* M, FILE* F1);
+FILE* MOT_HORS_DECO(FILE *T,FILE* F1);
+
+#endif // DICHO_H_INCLUDED

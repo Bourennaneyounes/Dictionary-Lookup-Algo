@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1545771416 source:c:\users\younes\desktop\projet tp\exo\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaine.h"
+
+1543707527 c:\users\younes\desktop\projet tp\exo\chaine.h
+	"text.h"
+
+1543689200 c:\users\younes\desktop\projet tp\exo\text.h
+
+1545776603 source:c:\users\younes\desktop\projet tp\exo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaine.h"
+	"text.h"
+	"Prefix_Suffixe.h"
+	"Dicho.h"
+	"Dicho_MAT.h"
+	"Rech_Arbre.h"
+	"FREQ.h"
+
+1544462841 c:\users\younes\desktop\projet tp\exo\prefix_suffixe.h
+
+1545676124 c:\users\younes\desktop\projet tp\exo\dicho.h
+
+1545735970 c:\users\younes\desktop\projet tp\exo\dicho_mat.h
+
+1545775537 c:\users\younes\desktop\projet tp\exo\rech_arbre.h
+
+1545752807 source:c:\users\younes\desktop\projet tp\exo\prefix_suffixe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"chaine.h"
+	"Prefix_Suffixe.h"
+
+1545775717 source:c:\users\younes\desktop\projet tp\exo\rech_arbre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Rech_Arbre.h"
+
+1545751808 source:c:\users\younes\desktop\projet tp\exo\rech_dicho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Dicho.h"
+
+1545736697 source:c:\users\younes\desktop\projet tp\exo\rech_dicho_mat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Dicho_MAT.h"
+
+1545774617 source:c:\users\younes\desktop\projet tp\exo\text.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"text.h"
+
+1545776183 source:c:\users\younes\desktop\projet tp\exo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaine.h"
+	"text.h"
+	"Prefix_Suffixe.h"
+	"Dicho.h"
+	"Dicho_MAT.h"
+	"Rech_Arbre.h"
+	"MENU.h"
+
+1545754331 c:\users\younes\desktop\projet tp\exo\menu.h
+
+1545774373 source:c:\users\younes\desktop\projet tp\exo\freq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chaine.h"
+	"text.h"
+	"Prefix_Suffixe.h"
+	"FREQ.h"
+
+1545774320 c:\users\younes\desktop\projet tp\exo\freq.h
+
